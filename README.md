@@ -63,7 +63,7 @@ Elaboración de arquitectura y desarrollo de software de alto rendimiento, desen
     </td>
     <td width="50%">
       <p align="center">
-        <a href="https://www.linkedin.com/in/juanchaurra/](https://www.linkedin.com/in/juanchaurra/overlay/Position/2491473106/treasury/?profileId=ACoAAEQRBwoBML9DOS7x0jixFQGw1KM0zv1RMjY" target="_blank">Documento PDF - Plan Transición de IPv4 a IPv6</a>
+        <a href="https://www.linkedin.com/in/juanchaurra/overlay/Position/2491473106/treasury/?profileId=ACoAAEQRBwoBML9DOS7x0jixFQGw1KM0zv1RMjY" target="_blank">Documento PDF - Plan Transición de IPv4 a IPv6</a>
       </p>
       <h4>🔹 Plan Diagnóstico de Transición IPv4 → IPv6</h4>
       <p>Diagnóstico integral de infraestructura de red para una entidad pública: levantamiento y análisis de direccionamiento y conectividad, evaluación de preparación por dependencia y documentación técnica de hallazgos. A partir de esto, estructuré el plan de transición: fases, consideraciones técnicas y lineamientos para la migración progresiva a IPv6.</p>
